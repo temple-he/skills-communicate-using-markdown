@@ -4,4 +4,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-I added three lines of text describing the size of the headers. I also inserted an image.
+``` javascript
+var myVar = "Hello, world!";
+```
+
+I added three lines of text describing the size of the headers. I inserted an image. I inserted a code block.

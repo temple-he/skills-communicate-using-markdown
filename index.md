@@ -8,4 +8,8 @@
 var myVar = "Hello, world!";
 ```
 
-I added three lines of text describing the size of the headers. I inserted an image. I inserted a code block.
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+I added three lines of text describing the size of the headers. I inserted an image. I inserted a code block. I made a task list.
